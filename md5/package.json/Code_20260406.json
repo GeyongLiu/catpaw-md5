@@ -1,0 +1,12 @@
+{
+  "name": "catpaw-md5",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "crypto-js": "^4.2.0"
+  }
+}
